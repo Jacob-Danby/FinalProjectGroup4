@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab 7</string>
-    <string name="email_prompt">Enter Your Email Address:</string>
-    <string name="email_enter">Type Email Here</string>
-    <string name="email_enter2">Your Email Here</string>
-    <string name="pass_prompt">Enter Your Password:</string>
-    <string name="log_button">Login</string>
-    <string name="your_pic">Your Picture:</string>
-    <string name="your_pic_prompt">Press the button to take a picture</string>
-    <string name="your_name">This is Your Name:</string>
-    <string name="your_name2">Type Your Name Here</string>
-    <string name="your_profile">Your Profile:</string>
-    <string name="button_chat">Chat</string>
-    <string name="message_hint">Type Message Here....</string>
-    <string name="recieve_button">Recieve</string>
-    <string name="send_button">Send</string>
-    <string name="delete_message">Delete?</string>
-    <string name="delete_message2">The selected row is:</string>
-    <string name="delete_message3">The database id is:</string>
-    <string name="delete_message4">Yes</string>
-    <string name="delete_message5">No</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">FinalProjectGroup4</string>
+    <string name="cocktail_menu">Cocktail Menu</string>
+
 </resources>
