@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FinalProjectGroup4</string>
-    <string name="cocktail_menu_title">Cocktail Menu</string>
-    <string name="cocktail_menu_button1"></string>
-    <string name="cocktail_menu_button2"></string>
-    <string name="cocktail_menu_button3"></string>
-    <string name="cocktail_menu_button4"></string>
+    <string name="pexels_title">Pexels Page</string>
+    <string name="pexels_button1">One</string>
+    <string name="pexels_button2">Two</string>
+    <string name="pexels_button3">Three</string>
+    <string name="pexels_button4">Four</string>
 </resources>
